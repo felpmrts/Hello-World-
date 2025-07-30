@@ -3,5 +3,5 @@
 
  Repositório criado sob conhecimentos adquiridos pelo curso do Gustavo Guanabara.
 
- Essa linha eu adivionei diretamente no site! Muito interessante.
+ Essa linha eu adicionei diretamente no site! Muito interessante.
 
